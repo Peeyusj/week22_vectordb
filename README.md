@@ -1,1 +1,1 @@
-# week21_vectordb
+# week22_vectordb
